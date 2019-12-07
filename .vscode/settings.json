@@ -1,0 +1,6 @@
+{
+  // "prettier.configPath": "/usr/local/lib/node_modules/prettier", 
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "prettier.configPath": "/Users/macbookair/Desktop/logPageTest/node_modules/prettier/index.js"
+}

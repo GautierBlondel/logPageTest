@@ -1,10 +1,6 @@
-import styled from "styled-components"; 
+import styled from "styled-components";
 
-// export const Label = styled.label`
-//   text-align : center;
-//   // font-family : ;
-// `
 export const Errors = styled.div`
-  text-align: center
+         text-align: center
   color : red;
-`
+`;
